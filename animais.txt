@@ -2,3 +2,4 @@ salamandra
 cachorro
 baleia
 tubarao
+peixe boi
